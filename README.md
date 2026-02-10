@@ -1,5 +1,9 @@
-# 👋 Olá, sou o Kevin!
+# 👋 Olá, seja bem-vindo!
+    😎 Meu nome é Kevin Alves Guimarães.
+    💬 Estou realizando o curso de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul
+    📫 [Acesse meu LinkedIn](https://www.linkedin.com/in/kevin-guimaraes-dev)
  - WIP
+
 # Projetos
  - WIP
 <!--
