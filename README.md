@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo!
 😎 Meu nome é Kevin Alves Guimarães. <br>
-💬 Estou realizando o curso de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul<br>
+💬 Estou cursando o Tecnólogo de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul<br>
 📫 [Acesse meu LinkedIn](https://www.linkedin.com/in/kevin-guimaraes-dev)
 
 # Projetos
