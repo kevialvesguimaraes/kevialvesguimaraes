@@ -1,10 +1,19 @@
-# 👋 Olá, seja bem-vindo!
+## 👋 Olá, seja bem-vindo!
+
 😎 Meu nome é Kevin Alves Guimarães. <br>
+
 💬 Estou cursando o Tecnólogo de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul<br>
+
 📫 [Acesse meu LinkedIn](https://www.linkedin.com/in/kevin-guimaraes-dev)
 
-# Projetos
+<!--
+## Projetos
  - WIP
+
+## Minhas Tecnologias
+- WIP
+## Outros Projetos
+ - WIP 
 <!--
 **kevialvesguimaraes/kevialvesguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
