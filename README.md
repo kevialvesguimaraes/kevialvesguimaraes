@@ -6,18 +6,23 @@
 
 📫 [Acesse meu LinkedIn](https://www.linkedin.com/in/kevin-guimaraes-dev)
 
+## Minhas Tecnologias
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80px" />
+          
+          
+</p>
 <!--
 ## Projetos
  - WIP
-
-## Minhas Tecnologias
-- WIP
 ## Outros Projetos
  - WIP
- -->
- ![Kevin Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 
- ![Kevin Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+ -->
+-------
 <!--
 **kevialvesguimaraes/kevialvesguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
